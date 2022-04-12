@@ -4,3 +4,4 @@
 * Added a new folder in main named temp and added one jpng file. Declared the temp in .gitignore using git rm --cached 
 * Added a new branch called differences and updated the files in the branch differences which are the git.text and github. We added new text about the features of a git and github
 * Added a new text file named difference.tetx and added the differences between git and github
+*
