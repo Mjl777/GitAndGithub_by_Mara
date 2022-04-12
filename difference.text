@@ -1,0 +1,3 @@
+Git is a version control technology for managing the source code history of a project development, and GitHub is a cloud-based platform based on Git.
+Git is a local program that a developer installs on their computer, but GitHub is an internet service which keeps code sent to it from Git-enabled machines.
+The fundamental contrast between Git and GitHub is that Git is a local machine open-source program for managing source code, whereas GitHub is an online service to which Git users can connect and publish or download resources.
